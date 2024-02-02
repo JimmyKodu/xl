@@ -53,11 +53,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-Oml04qJLlH6\/\/swPiMOxBmyHy58JsqlyYF3kApfcSiw=",
+      "hash": "sha256-OU2z2Yyfv29dZx3uFYvlabov3V\/XfVGjnz5WAPwVGjo=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-ztpEsmg4mPQD\/gwSOnYAhFM8iQNRpVapgXopWLz\/mnY=",
+      "hash": "sha256-XNdzHsR3p3VI1S7hqTA2pa9dVroeZnfQyAcb8YupWzg=",
       "url": "_framework\/雪绫.wasm"
     },
     {
@@ -597,5 +597,5 @@
       "url": "_content\/BootstrapBlazor.VideoPlayer\/VideoPlayer.razor.js"
     }
   ],
-  "version": "qSqCSKTq"
+  "version": "1y86P5i6"
 };
